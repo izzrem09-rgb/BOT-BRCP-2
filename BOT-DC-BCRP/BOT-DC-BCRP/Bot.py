@@ -1051,4 +1051,4 @@ if TOKEN is None:
 if __name__ == "__main__":
     keep_alive()      # arranca el servidor HTTP en segundo plano
     print("🌐 Servidor keep_alive iniciado en http://0.0.0.0:8080")
-    bot.run(os.getenv("DISCORD_TOKEN"))  # Asumiendo que el token está en las variables de entorno
+    bot.run(TOKEN)    # arranca el bot (bloquea el hilo principal)
