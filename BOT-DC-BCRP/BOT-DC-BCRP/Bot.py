@@ -1,4 +1,3 @@
-# bot_gremio.py
 import os
 import re
 import sqlite3
