@@ -12,6 +12,10 @@ from discord import TextChannel, Guild
 from flask import Flask
 from threading import Thread
 from discord import app_commands
+from dotenv import load_dotenv
+
+# Cargar las variables de entorno desde el archivo .env
+load_dotenv()
 
 
 app = Flask("")
