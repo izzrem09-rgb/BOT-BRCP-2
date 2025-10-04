@@ -1,0 +1,40 @@
+{
+  "682425081300779058": {
+    "pending": [
+      {
+        "role": "DPS",
+        "value": 700000,
+        "status": "Pendiente",
+        "msg_id": 1422392973647282300
+      }
+    ],
+    "approved": [
+      {
+        "role": "DPS",
+        "value": 700000,
+        "status": "Aprobado",
+        "msg_id": 1422385189799198832
+      },
+      {
+        "role": "DPS",
+        "value": 700000,
+        "status": "Aprobado"
+      },
+      {
+        "role": "SUPPORT",
+        "value": 1800000,
+        "status": "Aprobado"
+      },
+      {
+        "role": "TANK",
+        "value": 1000000,
+        "status": "Aprobado"
+      },
+      {
+        "role": "DPS",
+        "value": 700000,
+        "status": "Aprobado"
+      }
+    ]
+  }
+}
