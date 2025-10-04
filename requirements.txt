@@ -1,4 +1,4 @@
-discord.py==2.6.3  # Usar la versión más reciente disponible
-python-dotenv==0.21.0
-requests==2.26.0
-aiohttp==3.8.1
+discord.py
+python-dotenv
+requests
+aiohttp
