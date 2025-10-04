@@ -1,0 +1,4 @@
+discord.py==2.4.1
+Flask==2.2.3
+aiohttp==3.8.1
+python-dotenv==0.21.0
